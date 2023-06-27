@@ -19,6 +19,9 @@
 <a href="https://www.leetcode.com/whatrush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whatrush" height="30" width="40" /></a>
 </p>
 
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmik35&show_icons=true&locale=en" alt="rashmik35" /></p>
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmik35&" alt="rashmik35" /></p>
+<p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmik35&theme=radical&show_icons=true&locale=en" alt="rashmik35" /></p>
+
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiK35&layout=compact&theme=radical"/></p>
+
+<p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmik35&theme=radical" alt="rashmik35" /></p>
 
